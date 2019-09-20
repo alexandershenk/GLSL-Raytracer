@@ -1,1 +1,0 @@
-/usr/bin/c++  -ldl -D_GLIBCXX_DEBUG -g   CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/glad.c.o CMakeFiles/main.dir/src/rayTracer.cpp.o CMakeFiles/main.dir/src/render.cpp.o CMakeFiles/main.dir/src/shader.cpp.o  -o main /usr/lib/libglfw.so.3.2 
