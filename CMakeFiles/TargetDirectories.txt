@@ -1,0 +1,3 @@
+/home/xander/Code/CPP/RayTracter/RayTracer/CMakeFiles/rebuild_cache.dir
+/home/xander/Code/CPP/RayTracter/RayTracer/CMakeFiles/main.dir
+/home/xander/Code/CPP/RayTracter/RayTracer/CMakeFiles/edit_cache.dir
